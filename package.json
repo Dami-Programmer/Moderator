@@ -11,8 +11,12 @@
   },
   "dependencies": {
     "react": "^19.2.0",
+<<<<<<< HEAD
     "react-dom": "^19.2.0",
     "socket.io-client": "^4.8.3"
+=======
+    "react-dom": "^19.2.0"
+>>>>>>> 8ba80890d3b837bb5dcfe06cad0aec922ea6ac9b
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
